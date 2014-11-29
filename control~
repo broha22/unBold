@@ -1,0 +1,9 @@
+Package: com.broganminer.unbold
+Name: unBold
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Simple tweak that disables the bolding of the time in the status bar.
+Maintainer: Brogan Miner
+Author: Brogan Miner
+Section: Tweaks

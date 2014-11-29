@@ -1,0 +1,10 @@
+{
+	entry = {
+		cell = PSSwitchCell;
+		default = True;
+		defaults = "com.broganminer.unbold";
+		icon = "unBold.png";
+		key = boldEnable;
+		label = unBold;
+	};
+}
