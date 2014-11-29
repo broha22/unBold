@@ -1,0 +1,3 @@
+unBold
+======
+unBold the statusbar
